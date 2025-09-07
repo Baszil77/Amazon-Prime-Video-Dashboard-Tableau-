@@ -4,6 +4,9 @@
 This Tableau project analyses the Amazon Prime Video catalogue of movies and TV shows.  
 The dashboard provides insights into content distribution by country, genre, type, release year, and audience ratings.
 
+## Amazon Prime Dashboard
+![Amazon Prime Preview](amazon_prime/dashboard.png)
+
 ## Key Features
 - **Total Shows by Country**: World map of catalogue distribution.  
 - **Top Ratings**: Viewer ratings breakdown.  
@@ -39,4 +42,5 @@ The dashboard provides insights into content distribution by country, genre, typ
 
 ## License
 This project is for educational and portfolio purposes only. Data is provided as-is from the public dataset.
+
 
